@@ -33,7 +33,6 @@ const Wrap = styled.div`
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  // background-image: url("../images/{backgroundImg}");
   display: flex;
   flex-direction: column;
   justify-content: space-between;
